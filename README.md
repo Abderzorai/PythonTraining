@@ -1,8 +1,16 @@
 # PythonTraining
 
-# Exercice Variable
+## Exercice Variable[Completed]
 
-# Exercice Conditions
+## Exercice Conditions[Completed]
 
-# Exercice Function
+## Exercice Functions[Completed]
 
+## Exercice Loop[Completed]
+
+## Exercice Tuple[Completed]
+
+
+
+##### Credit
+*Abderrahman Zorai 
